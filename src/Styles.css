@@ -1,0 +1,9 @@
+.App {
+    margin-top: 40px;
+}
+.title-red {
+    color: red;
+    text-align: center;
+    font-family: verdana;
+    font-size: 20px;
+}
